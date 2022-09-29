@@ -9,3 +9,5 @@ https://addons.mozilla.org/en-US/firefox/addon/refined-github-
 https://addons.mozilla.org/en-US/firefox/addon/tabsleeper
 
 https://addons.mozilla.org/en-US/firefox/addon/ublock-origin
+
+https://addons.mozilla.org/en-US/firefox/addon/cat-in-tab/
